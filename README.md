@@ -19,15 +19,15 @@ Um projeto básico para aprender na prática sobre as três linguagens de progra
    - Primeiro é necessário clonar o repositório clicando na área verde escrito < Code >, logo acima dos arquivos.
      
      ```
-      https://github.com/Zabella0751/one-piece.git 
+      https://github.com/Zabella0751/GTA.git
      ```
  
 2. Navegue até o Diretório do projeto:
    - Após fazer a clonagem, navegue até o diretótio do projeto usando o comando 'cd'.
 
      ```
-     cd repository-one-piece
+     cd repository-GTA
      ```
 
 3. Abra no seu editor de código:
-   - Depois dos procedimentos acima é só abrir no seu editor de código.
+   - Depois dos procedimentos acima é só abrir no seu editor de código e colocar para rodar.
